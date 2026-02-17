@@ -1,4 +1,4 @@
-# 🏗 Safal Bag Store – Shopify 2.0 Theme Architecture
+# 🏗 Safal Ecommerce – Shopify 2.0 Theme Architecture
 
 A custom **Shopify Online Store 2.0** theme built with a modular and scalable architecture supporting both **B2B and B2C** workflows.
 
